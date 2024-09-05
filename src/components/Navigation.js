@@ -8,7 +8,7 @@ export default function Navigation() {
     <nav className="bg-gray-800 text-white py-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-xl font-bold">
-          <Link href="/">MyApp</Link>
+          <Link href="/">Andha Tufaan</Link>
         </div>
         <ul className="flex space-x-4">
           <li>
@@ -26,5 +26,6 @@ export default function Navigation() {
         </ul>
       </div>
     </nav>
+    
   );
 }
